@@ -1,0 +1,7 @@
+how resourse traverser works and fix the bug
+
+
+how STE schdules the threads
+
+
+
